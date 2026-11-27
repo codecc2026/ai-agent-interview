@@ -387,6 +387,6 @@ SAG2 值得认真对待的地方，不是把建库做到了几秒，而是证明
 
 ## 关注公众号
 
-更多 AI Agent 面试题在公众号持续更新。微信扫码关注 **FullStack 研发派**，后台回复「题库」，可以领取完整目录。
+更多 AI Agent 面试题在公众号持续更新。微信扫码关注 **FullStack 研发派**。
 
 <img src="assets/wechat-qr.jpg" alt="FullStack 研发派" width="220" />
