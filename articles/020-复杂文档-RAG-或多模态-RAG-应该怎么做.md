@@ -170,4 +170,4 @@ def multi_route_retrieve(query, top_k=32):
 
 更多 AI Agent 面试题在公众号持续更新。微信扫码关注 **FullStack 研发派**，后台回复「题库」，可以领取完整目录。
 
-<img src="../assets/wechat-qr.jpg" alt="FullStack 研发派" width="220" />
+<img src="assets/wechat-qr.jpg" alt="FullStack 研发派" width="220" />

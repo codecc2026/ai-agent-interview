@@ -227,7 +227,9 @@ def write_articles(articles: list[Article]) -> None:
         if target.exists():
             raise SystemExit(f"输出文件名冲突: {article.output_name}")
         body = prepare_body(article.body)
-        target.write_text(with_footer(body, f"../assets/{QR_NAME}"), encoding="utf-8")
+        # 页面地址在 /仓库名/ 下，hash 路由不参与图片相对路径。
+        # 用 assets/ 才能和首页一样落到站点目录，../assets/ 会请求到域名根路径。
+        target.write_text(with_footer(body, f"assets/{QR_NAME}"), encoding="utf-8")
 
 
 def sidebar_markdown(articles: list[Article]) -> str:

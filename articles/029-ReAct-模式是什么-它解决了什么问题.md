@@ -158,4 +158,4 @@ CoT 是让模型在给出最终答案之前，先把推理过程一步步写出�
 
 更多 AI Agent 面试题在公众号持续更新。微信扫码关注 **FullStack 研发派**，后台回复「题库」，可以领取完整目录。
 
-<img src="../assets/wechat-qr.jpg" alt="FullStack 研发派" width="220" />
+<img src="assets/wechat-qr.jpg" alt="FullStack 研发派" width="220" />
